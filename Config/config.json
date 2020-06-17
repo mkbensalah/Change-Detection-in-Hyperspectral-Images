@@ -1,0 +1,17 @@
+{
+    "Indian_pines" : {
+        "img": "indian_pines_corrected",
+        "gt": "indian_pines_gt",
+        "img_path_1" : "/content/Dataset1_2009.mat",
+        "img_path_2" : "/content/Dataset1_2015.mat",
+        "gt_path" : "/content/Dataset1_GT.mat",
+        
+    },
+    "PaviaU" : {
+        "img": "paviaU",
+        "gt": "paviaU_gt",
+        "img_path_1" : "/content/Dataset2_2009.mat",
+        "img_path_2" : "/content/Dataset2_2015.mat",
+        "gt_path" : "/content/Dataset2_GT.mat",",
+      }
+}
